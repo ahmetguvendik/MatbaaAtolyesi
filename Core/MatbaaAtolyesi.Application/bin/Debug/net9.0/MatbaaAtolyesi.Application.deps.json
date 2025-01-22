@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MatbaaAtolyesi.Application/1.0.0": {
+        "runtime": {
+          "MatbaaAtolyesi.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatbaaAtolyesi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

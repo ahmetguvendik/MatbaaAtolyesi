@@ -1,0 +1,11 @@
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /bin/Debug/net9.0/MatbaaAtolyesi.Infrastructure.deps.json
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /bin/Debug/net9.0/MatbaaAtolyesi.Infrastructure.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /bin/Debug/net9.0/MatbaaAtolyesi.Infrastructure.pdb
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/MatbaaAtolyesi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/MatbaaAtolyesi.Infrastructure.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/MatbaaAtolyesi.Infrastructure.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/MatbaaAtolyesi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/MatbaaAtolyesi.Infrastructure.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/refint/MatbaaAtolyesi.Infrastructure.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/MatbaaAtolyesi.Infrastructure.pdb
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Infrastructure  /obj/Debug/net9.0/ref/MatbaaAtolyesi.Infrastructure.dll

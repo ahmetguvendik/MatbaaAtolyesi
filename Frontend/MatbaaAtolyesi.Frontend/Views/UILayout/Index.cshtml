@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+@await Component.InvokeAsync("_HeadUILayoutComponentPartial")
+<body>
+<!-- wpf loader Two -->
+@await Component.InvokeAsync("_LoadingUILayoutComponentPartial")
+<!-- END SCROLL TOP BUTTON -->
+<!-- Start header section -->
+<header id="aa-header">
+    <!-- start header top  -->
+    @await Component.InvokeAsync("_HeaderTopUILayoutComponentPartial")
+    <!-- / header top  -->
+
+    <!-- start header bottom  -->
+    @await Component.InvokeAsync("_HeaderBotUILayoutComponentPartial")  
+    <!-- / header bottom  -->
+</header>
+<!-- / header section -->
+<!-- menu -->
+@await Component.InvokeAsync("_MenuUILayoutComponentPartial")   
+<!-- / menu -->
+<!-- Start slider -->
+@await Component.InvokeAsync("_SliderUILayoutComponentPartial") 
+<!-- / slider -->
+<!-- Start Promo section -->
+@await Component.InvokeAsync("_PromoUILayoutComponentPartial")  
+<!-- / Promo section -->
+<!-- Products section -->
+@await Component.InvokeAsync("_ProductUILayoutComponentPartial")    
+<!-- / Products section -->
+<!-- banner section -->
+@await Component.InvokeAsync("_BannerUILayoutComponentPartial") 
+<!-- popular section -->
+@await Component.InvokeAsync("_PopularSectioanUILayoutComponentPartial") 
+<!-- / popular section -->
+<!-- Support section -->
+@await Component.InvokeAsync("_SupportUILayoutComponentPartial")
+<!-- / Support section -->
+<!-- Testimonial -->
+@await Component.InvokeAsync("_TestimonialUILayoutComponentPartial")    
+<!-- / Testimonial -->
+
+<!-- Latest Blog -->
+@await Component.InvokeAsync("_BlogUILayoutComponentPartial")   
+<!-- / Latest Blog -->
+
+<!-- Client Brand -->
+@await Component.InvokeAsync("_ClientBrandUILayoutComponentPartial")    
+<!-- / Client Brand -->
+
+<!-- Subscribe section -->
+@await Component.InvokeAsync("_NewsletterUILayoutComponentPartial")    
+<!-- / Subscribe section -->
+
+<!-- footer -->
+@await Component.InvokeAsync("_FooterUILayoutComponentPartial") 
+<!-- / footer -->
+
+@await Component.InvokeAsync("_ScriptUILayoutComponentPartial") 
+
+
+</body>
+</html>
+
+@RenderBody()
