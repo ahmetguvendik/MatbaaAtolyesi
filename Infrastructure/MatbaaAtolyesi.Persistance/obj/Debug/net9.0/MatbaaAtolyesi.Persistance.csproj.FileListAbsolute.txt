@@ -1,0 +1,15 @@
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/bin/Debug/net9.0/MatbaaAtolyesi.Persistance.deps.json
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/bin/Debug/net9.0/MatbaaAtolyesi.Persistance.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/bin/Debug/net9.0/MatbaaAtolyesi.Persistance.pdb
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/bin/Debug/net9.0/MatbaaAtolyesi.Domain.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/bin/Debug/net9.0/MatbaaAtolyesi.Domain.pdb
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.csproj.AssemblyReference.cache
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAt.C82538B6.Up2Date
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/refint/MatbaaAtolyesi.Persistance.dll
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/MatbaaAtolyesi.Persistance.pdb
+/Users/ahmetguvendik/Desktop/Project/MatbaaAtolyesiProject/Infrastructure/MatbaaAtolyesi.Persistance/obj/Debug/net9.0/ref/MatbaaAtolyesi.Persistance.dll
